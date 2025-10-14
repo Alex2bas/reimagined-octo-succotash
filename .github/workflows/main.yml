@@ -34,8 +34,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "nishajohnson605"
-          git config --global user.email "nishajohnson605@outlook.com"
+          git config --global user.name "Alex2bas"
+          git config --global user.email "alex2b96@gmail.com"
 
       - name: Push changes
         run: |
